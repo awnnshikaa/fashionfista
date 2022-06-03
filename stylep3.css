@@ -1,0 +1,13 @@
+.container {
+padding-left:10% ;
+padding-right: 10%;
+
+}
+.navbar{
+    opacity: 2;
+    color: rgb(255, 255, 255);
+
+}
+.navbar a{
+    color: rgb(255, 255, 255);
+}
